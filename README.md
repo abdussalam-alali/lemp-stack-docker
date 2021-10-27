@@ -5,3 +5,6 @@ Details
 
 # Using this repo
 run `docker-compose up` to start the server
+
+# Settings
+To set mysql root password, update the value of MYSQL_ROOT_PASSWORD in docker-compose.yml
